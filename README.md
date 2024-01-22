@@ -36,5 +36,5 @@ Telegram: @wnezoxq
 # Disclaimer:
 This project is a demonstration of the capabilities of the OpenAI GPT-3.5 model and is not intended for production use. The bot's responses are generated based on patterns learned during training and may not always be accurate or suitable for all situations. Users are encouraged to use the bot responsibly and be aware of the limitations of AI language models.
 
-# UPD
+UPD
 The script requires modification for compatibility with GPT-4.0 due to changes in OpenAI's usage policies.
