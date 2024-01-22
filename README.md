@@ -3,7 +3,7 @@
 The ChatGpt Telegram Bot is an interactive bot powered by OpenAI's GPT-3.5 language model. The bot is designed to engage in conversations, answer questions, provide information, and assist users in a chat environment on the Telegram platform.
 
 # Features:
-Welcome Message: Upon initiation with the /start command, the bot greets users and introduces itself. It encourages users to ask questions, and provides a brief overview of its capabilities in both English and Ukrainian.
+Welcome Message: Upon initiation with the /start command, the bot greets users and introduces itself. It encourages users to ask questions and provides a brief overview of its capabilities in both English and Ukrainian.
 
 User Database: The bot utilizes SQLite to store user information, including user ID and username. This information is captured when users interact with the bot for the first time and is stored in the users table in the user_new.db database.
 
@@ -36,5 +36,5 @@ Telegram: @wnezoxq
 # Disclaimer:
 This project is a demonstration of the capabilities of the OpenAI GPT-3.5 model and is not intended for production use. The bot's responses are generated based on patterns learned during training and may not always be accurate or suitable for all situations. Users are encouraged to use the bot responsibly and be aware of the limitations of AI language models.
 
-UPD
+UPD:
 The script requires modification for compatibility with GPT-4.0 due to changes in OpenAI's usage policies.
